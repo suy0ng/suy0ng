@@ -10,7 +10,6 @@
   <h2>👋CONTACT</h2>
   <div align="left">
   <ul>
-    <li><h4>INSTA: @su___613</h4></li>
     <li><h4>E-MAIL:yunsuyong739@gmail.com</h4></li>
     <li><h4>DISCORD:수용 #9153</h4></li>
   </ul>
