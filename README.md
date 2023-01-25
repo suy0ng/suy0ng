@@ -1,6 +1,6 @@
 <div align="center">
   <h2>🧑🏼‍💻INTRODUCE</h2>
-  <h4>안녕하세요 날마다 성장하려는 개발자 윤수용 이라고합니다!</h4>
+  <h4>안녕하세요 날마다 성장하려고하는 개발자 윤수용 이라고합니다!</h4>
 
 <h2>📘SKILL</h2>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
